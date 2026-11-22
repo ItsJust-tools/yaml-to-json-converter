@@ -1,0 +1,7 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111827"/>
+  <rect x="60" y="60" width="1080" height="510" rx="24" fill="#1f2937" stroke="#f59e0b" stroke-width="2"/>
+  <text x="600" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="80" fill="#f9fafb" text-anchor="middle" font-weight="bold">🥁 BPM Tap Tempo</text>
+  <text x="600" y="350" font-family="system-ui, -apple-system, sans-serif" font-size="30" fill="#d1d5db" text-anchor="middle">Tap the beat — get your tempo in BPM instantly</text>
+  <text x="600" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="24" fill="#9ca3af" text-anchor="middle">itsjust.tools — single-purpose web tools</text>
+</svg>
